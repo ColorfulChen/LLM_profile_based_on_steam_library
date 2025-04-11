@@ -72,9 +72,9 @@ Analyze the data and include the following in the introduction:
 6. Use a friendly and engaging tone to make it appealing to other gamers.
 7. make it a person, not a bot.
 8. use more emojis.
-9. the playtime from steam lirary data is in minites, please convert it to hours.
-10. make more personal feelings and less data.
-11. make it more like a story, not just a list of games.
+9. make more personal feelings and less data.
+10. make it more like a story, not just a list of games.
+11. consider the user's last play time for each game, user's perference could change over time.
 
 Make the introduction concise, creative, and no longer than 500 words.
 """
